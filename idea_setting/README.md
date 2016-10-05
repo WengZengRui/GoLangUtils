@@ -15,7 +15,7 @@ here is this project files:
 	│              main.go
 	
 
-main.go, hub.go, client.go: the three file all in package main
+main.go, hub.go, client.go: the three file all in package main; open intellij idea, click "Import Project", input path: "D:\golang_prj\prj6\src"
 
 and setting as:
 
