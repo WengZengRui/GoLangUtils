@@ -1,8 +1,8 @@
-package b
+package b3
 
 import "fmt"
 
-func PrintB(){
-	printB1()
+func PrintB2(){
+	PrintB1()
 	fmt.Println("b.b2")
 }
